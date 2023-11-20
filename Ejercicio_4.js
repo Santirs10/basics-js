@@ -1,0 +1,1 @@
+//Realiza un script que pida cadenas de texto hasta que se pulse cancelar. Al salur con cancelar debe mostrarse todas las cadenas con un guion
